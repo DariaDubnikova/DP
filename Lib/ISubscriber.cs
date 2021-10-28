@@ -7,7 +7,10 @@ namespace Valuator
     {
         void SubscribeAsyncWithQueue(string subject, string queue, EventHandler<Args> handler);
 
+        void SubscribeAsync(string subject, EventHandler<Args> handler);
+
         void Start();
+        
         void Unsubscribe();
 
     }

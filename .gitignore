@@ -442,6 +442,13 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 
+
+##
+## Redis
+##
+
+/redis
+
 ##
 ## Nginx
 ##
@@ -450,25 +457,3 @@ nginx/*
 !nginx/conf
 nginx/conf/*
 !nginx/conf/nginx.conf
-nats/LICENSE
-nats/README.md
-nats/nats-server.exe
-.vscode/launch.json
-.vscode/tasks.json
-EventsLogger/obj/EventsLogger.csproj.nuget.dgspec.json
-EventsLogger/obj/project.assets.json
-EventsLogger/obj/project.nuget.cache
-EventsLogger/obj/Debug/net5.0/EventsLogger.assets.cache
-EventsLogger/obj/Debug/net5.0/EventsLogger.csprojAssemblyReference.cache
-Valuator/.vscode/launch.json
-Valuator/.vscode/tasks.json
-EventsLogger/obj/EventsLogger.csproj.nuget.dgspec.json
-.gitignore
-.gitignore
-.gitignore
-.gitignore
-EventsLogger/obj/project.assets.json
-EventsLogger/obj/project.nuget.cache
-EventsLogger/obj/project.nuget.cache
-EventsLogger/obj/Debug/net5.0/EventsLogger.assets.cache
-Valuator/.vscode/tasks.json
